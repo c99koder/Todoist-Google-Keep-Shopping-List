@@ -17,7 +17,7 @@ python3 --version
 Install required python3 modules:
 
 ```sh
-pip3 install todoist-api-python keyring gkeepapi
+pip3 install todoist-api-python keyring keyrings.cryptfile gkeepapi
 ```
 
 Run the script to automatically move your Google Assistant shopping list items to Todoist
